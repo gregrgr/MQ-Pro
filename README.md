@@ -27,3 +27,6 @@ This micro development board is specially designed to run Tina-Linux/Debian. Des
 
 ![](2.Images/mqp-v1.1.png)
 
+![](2.Images/MQ-Pro-T.jpg)
+
+![](2.Images/MQ-Pro-B.jpg)
